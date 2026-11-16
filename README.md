@@ -1,4 +1,4 @@
-\<div align="center">
+<div align="center">
 
 # Hi, I'm Dicky Kamaludin Bashar 👋
 
@@ -6,9 +6,11 @@
 
 Building web applications with clean code, scalable architecture, and practical solutions.
 
+<br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=melanchorilla-portfolio&color=blueviolet&style=flat-square)
 
-\</div>
+</div>
 
 ---
 
@@ -29,15 +31,21 @@ My primary focus is backend development, especially with **PHP and Laravel**, wh
 
 ### Backend Development
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=php,laravel,nodejs,express](https://skillicons.dev/icons?i=php,laravel,nodejs,express)" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" alt="Backend Technologies" />
+</p>
 
 ### Frontend Development
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,js,vue,nuxt,bootstrap,tailwind](https://skillicons.dev/icons?i=html,css,js,vue,nuxt,bootstrap,tailwind)" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,bootstrap,tailwind" alt="Frontend Technologies" />
+</p>
 
 ### Database & Tools
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=mysql,postgres,redis,docker,git,github,vscode,linux](https://skillicons.dev/icons?i=mysql,postgres,redis,docker,git,github,vscode,linux)" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,git,github,vscode,linux" alt="Database and Tools" />
+</p>
 
 ---
 
@@ -45,29 +53,29 @@ My primary focus is backend development, especially with **PHP and Laravel**, wh
 
 Here are some projects from my GitHub repositories:
 
-| Project                                                                      | Description                         |
-| ---------------------------------------------------------------------------- | ----------------------------------- |
-| [INEED Backend](https://github.com/melanchorilla-portfolio/ineed-backend)    | Backend application development     |
-| [INEED Frontend](https://github.com/melanchorilla-portfolio/ineed-frontend)  | Frontend application development    |
-| [Laravel Blog](https://github.com/melanchorilla-portfolio/laravel-blog)      | Blog application built with Laravel |
-| [Node.js Cashier](https://github.com/melanchorilla-portfolio/nodejs-cashier) | Cashier application using Node.js   |
-| [Nuxt Cashier](https://github.com/melanchorilla-portfolio/nuxt-cashier)      | Cashier application using Nuxt.js   |
+| Project | Description | Technology |
+|---|---|---|
+| [INEED Backend](https://github.com/melanchorilla-portfolio/ineed-backend) | Backend application development | Laravel |
+| [INEED Frontend](https://github.com/melanchorilla-portfolio/ineed-frontend) | Frontend application development | Vue.js |
+| [Laravel Blog](https://github.com/melanchorilla-portfolio/laravel-blog) | Blog application | Laravel |
+| [Node.js Cashier](https://github.com/melanchorilla-portfolio/nodejs-cashier) | Cashier application | Node.js |
+| [Nuxt Cashier](https://github.com/melanchorilla-portfolio/nuxt-cashier) | Cashier application | Nuxt.js |
 
 ---
 
 ## 📊 GitHub Statistics
 
-\<div align="center">
+<div align="center">
 
-\<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=melanchorilla-portfolio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=melanchorilla-portfolio\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=melanchorilla-portfolio&show_icons=true&theme=tokyonight&hide_border=true" />
 
-\<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=melanchorilla-portfolio&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=melanchorilla-portfolio\&layout=compact\&theme=tokyonight\&hide_border=true)" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melanchorilla-portfolio&layout=compact&theme=tokyonight&hide_border=true" />
 
-\<br/>
+<br><br>
 
-\<img src="[https://streak-stats.demolab.com?user=melanchorilla-portfolio&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=melanchorilla-portfolio\&theme=tokyonight\&hide_border=true)" />
+<img src="https://streak-stats.demolab.com?user=melanchorilla-portfolio&theme=tokyonight&hide_border=true" />
 
-\</div>
+</div>
 
 ---
 
@@ -75,10 +83,14 @@ Here are some projects from my GitHub repositories:
 
 I'm always open to learning, sharing ideas, and collaborating on interesting projects.
 
-\<div align="center">
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melanchorilla-portfolio)
+
+<br>
 
 **Thanks for visiting my profile!**
 
 ⭐ Feel free to explore my repositories and connect with me.
 
-\</div>
+</div>
